@@ -10,21 +10,79 @@ https://zoom.us/rec/share/uuVFNr_o6lxJQ7PRxxvWXbYaIarAaaa82nVKrqZbzU4tYqPcQrkjiB
 3
 https://zoom.us/rec/share/uMF3frzzziROGq_J-hrQAIMEEKDAT6a81HNL-PQEyEsVVUefOfJJTyqwZUe85rGm
 
-4
-https://zoom.us/rec/share/6NZ3Bb3d-jpJT4WT5Ev1fqMFNL3ET6a8gHcbq_dZmEv--Eo7hvRTDBfOJDUNQ_F_
-Z9@aE++y
+3
+https://zoom.us/rec/share/yckrcazM9DlOQdKUyG3tXrEmL4_8eaa82nVL__IEyR2Njrb9Xr9aROIWZpu0inhl
 
 4
-https://zoom.us/rec/share/yckrcazM9DlOQdKUyG3tXrEmL4_8eaa82nVL__IEyR2Njrb9Xr9aROIWZpu0inhl
+https://zoom.us/rec/share/6NZ3Bb3d-jpJT4WT5Ev1fqMFNL3ET6a8gHcbq_dZmEv--Eo7hvRTDBfOJDUNQ_F_
+Access Password: Z9@aE++y
+
+4
+https://zoom.us/rec/share/2PFkC5_07lhOTqvrtVDfRaUBLNzEaaa823BI-aAPxUnzLsUSjzwauVFDhzSdXDcT
+התחלה WAE - לא כולל EVAL
+
+4
+https://zoom.us/rec/share/_pJ2Iu3wz09ITY3Q9mPbVIMPMZW0T6a81CYWqKcFyxxzBO5nn93-J1QariQeRvFI
+סיום WAE -  כולל EVAL
 
 5
 https://zoom.us/rec/share/zsdRCJP8tU5JR6eQ-WHSC7E6GrW_aaa8gSNN_PQOzEY2o9YY1J-aEBTf6g48nFiX
+התחלה של WAE
 
 6
 https://zoom.us/rec/share/-_NYL-HMx3pOTp3TyUfPeaUwIYfpeaa8hiBLr_cMnx6XNN5ASI2UwjOUsR7JLOaC
+סיום WAE - כולל EVAL
+
+6
+https://zoom.us/rec/share/vJx2AZva1mNJbJH3xUjhS_A6N5zXX6a81yca_qAOxPPU_43JrKlI5KwqW54whok
+FLANG - לא כולל EVAL 
 
 7
 https://zoom.us/rec/share/3-JUdLH9-F9JabPmuX_RZr8_JqTPaaa8gyZI8qEPxB10modOVcv04VfPsCkijF-j
+FLANG - לא כולל EVAL
+
+7
+https://zoom.us/rec/share/x85MNZvuz39OUM_r7UCFWbwCEJbgeaa823Ue8vMKyU7LbCpZwXgKmDxTFZAEDp7q
+סיום FLANG -  כולל EVAL
+
+7
+https://zoom.us/rec/share/-txRAKnvqn5OTM_H9ljAVfUsMtXUT6a8hncarPFenkoJHHICsFoiEjSsIubcC3PY
+סיום FLANG -  כולל EVAL
+
+8
+https://zoom.us/rec/share/uONEApfu9ERJRJHX1BGEWfccNI_YX6a8gHNM8_BZmkjp4StbzWu97eCcdrYoRprV
+נסיון לשיפור  FLANG -  
+substitution cache and the difference between Dynamic and Static Scoping
 
 9
 https://zoom.us/rec/share/749kMrLT8kRJYqPdxgbbc5c5H9j-aaa81yFI_fRYnhyB08Ir-OhV3rw7B2Sz_m8L
+נסיון לשיפור FLANG -  
+Substitution Cache
+
+9
+https://zoom.us/rec/share/uONEApfu9ERJRJHX1BGEWfccNI_YX6a8gHNM8_BZmkjp4StbzWu97eCcdrYoRprV
+נסיון לשיפור 
+FLANG
+מודל substitution cache
+
+10
+https://zoom.us/rec/share/zOYsApevyHFIXo3Q1gLFWpE-T5bPaaa8g3VM8_QEmUykg7IR1IbHVIGw_XJ3OIwZ
+האינטרפרטר המלא במודל הסביבות
+
+10
+https://zoom.us/rec/share/6OF7IL_-8WhOZ8_I2mfBX5YsAIPXX6a80yIX-_Nfz0qbCRdQGam5woXqBHmKGTV1
+האינטרפרטר המלא במודל הסביבות
+
+10 - מקביל ל- 11
+https://zoom.us/rec/share/99drI4na7mNOb4XJ6BHeWqk5RqHJeaa803NK-fYJxU9lc5mhzWXT6VhCysyBjIrW
+מודל הסביבות של ראקט + מימוש זוגות במודל הסביבות + הרחבת השפה שלנו לטיפול בזוגות
+
+11
+https://zoom.us/rec/share/zupNEo7R3yRLea_x0BvlcZwqGa7pX6a81nNM-_MLnookS0sXGaXma0YBnQ-kaIc
+ מודל הסביבות של ראקט + מימוש זוגות במודל הסביבות + הרחבת השפה שלנו לטיפול בזוגות
+
+12
+https://zoom.us/rec/share/vtFxPbSp7yBOSKuSsn_bZpQ8N4_gT6a813Ua_PYNxUrRTAKMYV5Z8gZIT-tYx03w
+- חזרה על מודל הסביבות.
+- Lazy Evaluation
+- סיכום.
